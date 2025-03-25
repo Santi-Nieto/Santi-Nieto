@@ -89,7 +89,7 @@
 ### 🔥 Mis Contribuciones
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Santi-Nieto" />
+<img src="https://github-readme-stats.vercel.app/api?username=Santi-Nieto&show_icons=true&theme=dark" />
 </div>
 
 ---
